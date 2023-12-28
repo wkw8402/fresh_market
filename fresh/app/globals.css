@@ -1,0 +1,32 @@
+body {
+  margin : 0;
+  background-color: #303030;
+  color : white
+}
+ 
+.title {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.title-sub {
+  text-align: center;
+}
+
+.food {
+  margin: 20px auto;
+  width: 200px;
+  background: white;
+  color: black;
+  padding: 20px;
+  border-radius: 5px;
+} 
+
+.navbar {
+  background: white;
+  padding: 20px;
+}
+.navbar a {
+  margin-right: 10px;
+  text-decoration: none;
+} 
