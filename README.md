@@ -1,4 +1,4 @@
-# A Grocery Store Project For Learning Next.js Syntax
+# Next.js grocery store: Project-based learning
 
 ![Thumbnail of Next.js Project Page](/fresh/public/thumbnail.png)
 
