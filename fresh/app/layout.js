@@ -13,11 +13,13 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
+        {/* navbar is a common UI in many pages */}
         <div className="navbar">
           <Link href="/">home</Link>
           <Link href="/list">list page</Link>
         </div>
-        {children}
+        {children} 
+        {/* page.js is put inside children  */}
       </body>
     </html>
   )
