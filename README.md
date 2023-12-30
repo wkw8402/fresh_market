@@ -1,6 +1,6 @@
 # Grocery Store for Learning Next.js Syntax
 
-![Thumbnail of Next.js Project Page](https://github.com/wkw8402/fresh_market/tree/master/fresh/public/thumbnail.png)
+![Thumbnail of Next.js Project Page](/fresh/public/thumbnail.png)
 
 ## Project Overview
 This project is dedicated to learning the basics of React and Next.js through the creation of a grocery store webpage. It's an ideal resource for those beginning their journey in web development with React and Next.js.
