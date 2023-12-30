@@ -1,4 +1,4 @@
-# Next.js grocery store: Project-based learning
+# Next.js Grocery store: Project-based learning
 
 ![Thumbnail of Next.js Project Page](/fresh/public/thumbnail.png)
 
