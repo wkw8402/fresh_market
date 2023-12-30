@@ -34,7 +34,7 @@ This project is dedicated to learning the basics of React and Next.js through th
 ---
 
 ## Contributing
-Contributions to this project are welcome. Please refer to our contributing guidelines for more information.
+Contributions to this project are welcome.
 
 ## License
-This project is released under codingapple.com. See the LICENSE file for more details.
+This project is released under codingapple.com.
